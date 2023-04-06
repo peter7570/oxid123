@@ -1,0 +1,11 @@
+{
+    "name": "root/project123",
+    "description": "test modul oxid",
+    "authors": [
+        {
+            "name": "peter.yurzh",
+            "email": "p.yurzh@gmail.com"
+        }
+    ],
+    "require": {}
+}
